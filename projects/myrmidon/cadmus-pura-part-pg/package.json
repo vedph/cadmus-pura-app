@@ -1,0 +1,23 @@
+{
+  "name": "@myrmidon/cadmus-pura-part-pg",
+  "version": "1.0.0",
+  "description": "Cadmus - PURA parts UI wrapper components.",
+  "keywords": [
+    "Cadmus"
+  ],
+  "homepage": "https://github.com/vedph/cadmus_pura_app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedph/cadmus_pura_app"
+  },
+  "author": {
+    "name": "Daniele Fusi"
+  },
+  "peerDependencies": {
+    "@angular/common": "^11.1.2",
+    "@angular/core": "^11.1.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+<cadmus-current-item-bar></cadmus-current-item-bar>
+<pura-word-forms-part
+  [itemId]="itemId"
+  [roleId]="roleId"
+  [model]="$any(part$ | async)"
+  (modelChange)="save($event)"
+  [thesauri]="$any(thesauri$ | async)"
+  (editorClose)="close()"
+  (dirtyChange)="onDirtyChange($event)"
+></pura-word-forms-part>
