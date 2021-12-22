@@ -28,7 +28,7 @@
     "@datorama/akita-ngdevtools": "^7.0.0",
     "@myrmidon/auth-jwt-admin": "0.0.2",
     "@myrmidon/auth-jwt-login": "0.0.2",
-    "@myrmidon/cadmus-api": "1.0.0",
+    "@myrmidon/cadmus-api": "1.0.1",
     "@myrmidon/cadmus-core": "1.0.0",
     "@myrmidon/cadmus-item-editor": "1.0.0",
     "@myrmidon/cadmus-item-list": "1.0.0",
